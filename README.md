@@ -2,12 +2,8 @@
   <img src=Untitled39_20260828104417.png>
 </p>
 
-<div align="center">
-
-<img src="https://glitch.me" alt="Profile views">
 
 
-</div>
 
 
 
