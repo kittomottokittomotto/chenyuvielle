@@ -6,10 +6,10 @@
 <p align="center">
   <img src="Untitled39_20260828104043.png" width="70%">
   <br>
-  <font size="6">✧ <i>✧ һ𝒂𝒏𝓷𝓪𝓱..    𝒔𝒉𝓮/𝓽𝓱𝓮𝔂..   ᥲ𝒓𝒐𝓸𝓪𝓬𝓮.. ✧..</i> ✧</font>
+  <font width=80>✧ <b>✧ һ𝒂𝒏𝓷𝓪𝓱..    𝒔𝒉𝓮/𝓽𝓱𝓮𝔂..   ᥲ𝒓𝒐𝓸𝓪𝓬𝓮.. ✧..</b> ✧</font>
   <br>
   <br>
-  <font size="1"><b>𝗿𝗲𝗮𝗱 𝗹𝗶𝗻𝗸s 𝗯𝘆𝗶! 𝗰𝗰𝘀 & 𝗹𝗻 𝗳𝗮𝗻𝗱𝗼𝗺 𝗯𝗺𝗳! 𝓬+𝓱 𝓪𝓷𝓭 𝓲𝓷𝓽 𝓲𝓼 𝓱𝓲𝓰𝓱𝓵𝔂 𝓮𝓷𝓬𝓸𝓾𝓻𝓪𝓰𝓮𝓭!</b></font>
+  <font width="20">rᥱᥲძ ᥣіᥒks ᑲᥡі! ᥴᥴs & ᥣᥒ 𝖿ᥲᥒძ᥆m ᑲm𝖿!(anyone honestly) ᥴ+һ ᥲᥒძ іᥒ𝗍 іs һіgһᥣᥡ ᥱᥒᥴ᥆ᥙrᥲgᥱძ! </font>
 </p> 
 
 <p align="center">
