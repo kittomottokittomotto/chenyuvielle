@@ -1,12 +1,6 @@
 <p align="center">
   <img src=Untitled39_20260828104417.png>
 </p>
-
-
-
-
-
-
  <p align="center"<b>𝒐𝒉 𝒔𝒕𝒂𝒓𝒔! 𝒃𝒆𝒄𝒐𝒎𝒆 𝒍𝒐𝒗𝒆 𝒂𝒏𝒅 𝒄𝒓𝒐𝒔𝒔 𝒕𝒉𝒊𝒔 𝒔𝒑𝒂𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝒖𝒔.</b></p>
 <p align="center">
   <img src="Untitled39_20260828104043.png" width="70%">
